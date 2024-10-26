@@ -24,7 +24,7 @@ Link de descarga de Obsidian: https://obsidian.md/download
 		- [ ] Conceptos básicos de Maven.
 		- [ ] Dependencias y cómo gestionarlas en proyectos Android.
 		- [ ] Comparativa Gradle vs Maven en proyectos móviles.
-	- [ ] **[[04. Kotlin]]**
+	- [ ] **[[03. Kotlin]]**
 		- [ ] Fundamentos de Kotlin (variables, tipos, funciones).
 		- [ ] Control de flujo (condicionales, loops).
 		- [ ] Programación orientada a objetos en Kotlin (clases, herencia, interfaces).
